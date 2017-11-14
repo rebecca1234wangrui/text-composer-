@@ -1,0 +1,15 @@
+{
+    "name": "rebecca1234wangrui/textcomposer",
+    "description": "description",
+    "type": "project",
+    "require": {
+        "houdunwang/wechat": "*"
+    },
+    "authors": [
+        {
+            "name": "rebecca1234",
+            "email": "1173698403@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
